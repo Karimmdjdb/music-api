@@ -1,5 +1,7 @@
 # 🎧 Now Playing API (Personal Spotify Integration)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
 This is a personal REST API that connects to **my Spotify account** to fetch the song I'm currently listening to in real time.
 
 It powers the "Fun Zone" section on my portfolio:  
